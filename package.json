@@ -9,6 +9,15 @@
     "vue",
     "echarts"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim760255458/vue-echarts-plugin"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim760255458/vue-echarts-plugin/issues"
+  },
+  "homepage": "https://github.com/tim760255458/vue-echarts-plugin/blob/master/README.md",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
