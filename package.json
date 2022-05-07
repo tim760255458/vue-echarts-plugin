@@ -1,10 +1,13 @@
 {
   "name": "vue-echarts-plugin",
   "private": false,
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "tim760255458",
   "main": "./lib/index.js",
   "description": "a custom plugin for using Echarts in Vue.js(v2/3) apps.",
+  "files": [
+    "./lib/index.js"
+  ],
   "keywords": [
     "vue",
     "echarts"
