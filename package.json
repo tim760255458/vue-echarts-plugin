@@ -6,7 +6,7 @@
   "main": "./lib/index.js",
   "description": "a custom plugin for using Echarts in Vue.js(v2/3) apps.",
   "files": [
-    "./lib/index.js"
+    "lib/index.js"
   ],
   "keywords": [
     "vue",
